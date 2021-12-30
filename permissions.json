@@ -1,0 +1,9 @@
+[
+  {id: "11", code: 'VIEW_PERMISSIONS', name: 'View Permissions', description: 'Platform', isActive: true},
+  {id: "22", code: 'CREATE_ROLE', name: 'Create Role', description: 'Platform', isActive: true},
+  {id: "33", code: 'VIEW_ROLES', name: 'View Roles', description: 'Platform', isActive: true},
+  {id: "44", code: 'CREATE_USER', name: 'Create User', description: 'Platform', isActive: false},
+  {id: "55", code: 'VIEW_USERS', name: 'View Users', description: 'Platform', isActive: true},
+  {id: "66", code: 'VIEW_eTMF', name: 'View eTMF Test Menu', description: 'eTMF', isActive: true},
+  {id: "77", code: 'VIEW_CTMS', name: 'View CTMS Test Menu', description: 'CTMS', isActive: false}
+]
